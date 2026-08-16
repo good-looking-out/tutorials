@@ -53,3 +53,16 @@
 - [Static Text vs Data Text in Shred Scopes Templates](editing-layers-and-building-template-layouts/static-text-vs-data-text-in-shred-scopes-templates.md)
 - [How to Add Linear and Radial Tick Marks to a Telemetry Graphic](editing-layers-and-building-template-layouts/add-linear-and-radial-tick-marks-to-a-telemetry-graphic.md)
 - [How to Place One Template Inside Another with a Template Layer](editing-layers-and-building-template-layouts/place-one-template-inside-another-with-a-template-layer.md)
+
+### Mapping and Controlling Telemetry Data
+
+- [How to Map a GoPro Telemetry Stream to Text, Graphics, or Ticks](mapping-and-controlling-telemetry-data/map-a-gopro-telemetry-stream-to-text-graphics-or-ticks.md)
+- [How to Convert Telemetry Units in Shred Scopes](mapping-and-controlling-telemetry-data/convert-telemetry-units-in-shred-scopes.md)
+- [How to Fit Telemetry Data Minimum and Maximum Values to a Gauge](mapping-and-controlling-telemetry-data/fit-telemetry-data-minimum-and-maximum-values-to-a-gauge.md)
+- [How to Use Fixed and Symmetric Telemetry Ranges](mapping-and-controlling-telemetry-data/use-fixed-and-symmetric-telemetry-ranges.md)
+- [How to Clamp GoPro Telemetry Values and Limit GPS Spikes](mapping-and-controlling-telemetry-data/clamp-gopro-telemetry-values-and-limit-gps-spikes.md)
+- [How to Use Deadband to Stop a Telemetry Indicator from Jittering](mapping-and-controlling-telemetry-data/use-deadband-to-stop-a-telemetry-indicator-from-jittering.md)
+- [How to Show or Hide a Template Layer Based on Telemetry](mapping-and-controlling-telemetry-data/show-or-hide-a-template-layer-based-on-telemetry.md)
+- [How to Display Maximum and Minimum Telemetry Values Reached](mapping-and-controlling-telemetry-data/display-maximum-and-minimum-telemetry-values-reached.md)
+- [GPS Time vs Elapsed Time in Shred Scopes Templates](mapping-and-controlling-telemetry-data/gps-time-vs-elapsed-time-in-shred-scopes-templates.md)
+- [How to Use Cumulative and Rate Telemetry Streams](mapping-and-controlling-telemetry-data/use-cumulative-and-rate-telemetry-streams.md)
