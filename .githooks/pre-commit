@@ -1,0 +1,30 @@
+#!/bin/sh
+
+set -eu
+
+expected_name='good-looking-out'
+expected_email='317453502+good-looking-out@users.noreply.github.com'
+
+author_ident=$(git var GIT_AUTHOR_IDENT)
+committer_ident=$(git var GIT_COMMITTER_IDENT)
+expected_prefix="$expected_name <$expected_email> "
+
+case "$author_ident" in
+  "$expected_prefix"*) ;;
+  *)
+    printf '%s\n' \
+      'Commit rejected: the author identity is not the official Good Looking Out identity.' \
+      "Expected: $expected_name <$expected_email>"
+    exit 1
+    ;;
+esac
+
+case "$committer_ident" in
+  "$expected_prefix"*) ;;
+  *)
+    printf '%s\n' \
+      'Commit rejected: the committer identity is not the official Good Looking Out identity.' \
+      "Expected: $expected_name <$expected_email>"
+    exit 1
+    ;;
+esac
