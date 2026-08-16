@@ -66,3 +66,16 @@
 - [How to Display Maximum and Minimum Telemetry Values Reached](mapping-and-controlling-telemetry-data/display-maximum-and-minimum-telemetry-values-reached.md)
 - [GPS Time vs Elapsed Time in Shred Scopes Templates](mapping-and-controlling-telemetry-data/gps-time-vs-elapsed-time-in-shred-scopes-templates.md)
 - [How to Use Cumulative and Rate Telemetry Streams](mapping-and-controlling-telemetry-data/use-cumulative-and-rate-telemetry-streams.md)
+
+### Styling Telemetry Graphics, Text, Fonts, and Images
+
+- [How to Change Colors, Gradients, Strokes, and Opacity in a Telemetry Template](styling-telemetry-graphics-text-fonts-and-images/change-colors-gradients-strokes-and-opacity-in-a-telemetry-template.md)
+- [How to Choose Fonts for a GoPro Telemetry Overlay](styling-telemetry-graphics-text-fonts-and-images/choose-fonts-for-a-gopro-telemetry-overlay.md)
+- [How to Format Numbers, Units, Prefixes, and Labels in Data Text](styling-telemetry-graphics-text-fonts-and-images/format-numbers-units-prefixes-and-labels-in-data-text.md)
+- [How to Format GPS Date and Time in a Telemetry Overlay](styling-telemetry-graphics-text-fonts-and-images/format-gps-date-and-time-in-a-telemetry-overlay.md)
+- [How to Add a Logo or Custom Image to a Telemetry Template](styling-telemetry-graphics-text-fonts-and-images/add-a-logo-or-custom-image-to-a-telemetry-template.md)
+- [How to Manage and Recover Custom Image Uploads in Studio](styling-telemetry-graphics-text-fonts-and-images/manage-and-recover-custom-image-uploads-in-studio.md)
+- [How to Reuse Colors, Fonts, Text, and Numbers with Template Constants](styling-telemetry-graphics-text-fonts-and-images/reuse-colors-fonts-text-and-numbers-with-template-constants.md)
+- [How to Pass Template Constants into a Nested Template](styling-telemetry-graphics-text-fonts-and-images/pass-template-constants-into-a-nested-template.md)
+- [How to Use Blend Modes in a GoPro Telemetry Overlay](styling-telemetry-graphics-text-fonts-and-images/use-blend-modes-in-a-gopro-telemetry-overlay.md)
+- [How to Make Telemetry Graphics Readable over Moving GoPro Footage](styling-telemetry-graphics-text-fonts-and-images/make-telemetry-graphics-readable-over-moving-gopro-footage.md)
