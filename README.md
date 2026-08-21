@@ -2,6 +2,12 @@
 
 ## Table of Contents
 
+### Ableton Live
+
+- [Ableton Live tutorial index](ableton-live/README.md)
+- [Getting Started, Setup, and Core Navigation](ableton-live/README.md#getting-started-setup-and-core-navigation)
+  - [Ableton Live User Interface Overview](ableton-live/getting-started-setup-and-core-navigation/ableton-live-user-interface-overview.md)
+
 ### Shred Scopes
 
 - [Shred Scopes tutorial index](shred-scopes/README.md)

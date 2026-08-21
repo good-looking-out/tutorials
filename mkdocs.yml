@@ -1,0 +1,35 @@
+site_name: Good Looking Out Tutorials
+site_description: Reference-style tutorials for software workflows.
+site_url: https://good-looking-out.github.io/tutorials/
+repo_name: good-looking-out/tutorials
+repo_url: https://github.com/good-looking-out/tutorials
+edit_uri: ''
+
+docs_dir: _docs
+site_dir: _site
+use_directory_urls: true
+
+theme:
+  name: readthedocs
+  include_homepage_in_sidebar: false
+
+nav:
+  - Home: index.md
+  - Tutorial catalog: tutorial-catalog.md
+  - Ableton Live:
+      - Overview: ableton-live/README.md
+      - Getting Started, Setup, and Core Navigation:
+          - Ableton Live User Interface Overview: ableton-live/getting-started-setup-and-core-navigation/ableton-live-user-interface-overview.md
+  - Shred Scopes:
+      - Overview: shred-scopes/README.md
+
+not_in_nav: |
+  shred-scopes/*/*.md
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
