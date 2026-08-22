@@ -27,6 +27,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Move Between Session View and Arrangement View](ableton-live/working-with-views-tracks-projects-and-content/how-to-move-between-session-view-and-arrangement-view.md)
   - [Session View Keyboard Shortcuts in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/session-view-keyboard-shortcuts-in-ableton-live.md)
   - [Arrangement View Keyboard Shortcuts in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/arrangement-view-keyboard-shortcuts-in-ableton-live.md)
+  - [How to Use Tracks in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-tracks-in-ableton-live.md)
 
 ### Shred Scopes
 
