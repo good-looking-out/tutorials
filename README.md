@@ -21,6 +21,8 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Improve Computer Performance for Ableton Live](ableton-live/getting-started-setup-and-core-navigation/how-to-improve-computer-performance-for-ableton-live.md)
   - [How to Save an Ableton Live Set and Project](ableton-live/getting-started-setup-and-core-navigation/how-to-save-an-ableton-live-set-and-project.md)
   - [How to Export Audio from Ableton Live](ableton-live/getting-started-setup-and-core-navigation/how-to-export-audio-from-ableton-live.md)
+- [Working with Views, Tracks, Projects, and Content](ableton-live/README.md#working-with-views-tracks-projects-and-content)
+  - [How to Use Session View in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-session-view-in-ableton-live.md)
 
 ### Shred Scopes
 
