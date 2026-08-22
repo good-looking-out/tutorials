@@ -26,3 +26,4 @@
 - [Session View Keyboard Shortcuts in Ableton Live](working-with-views-tracks-projects-and-content/session-view-keyboard-shortcuts-in-ableton-live.md)
 - [Arrangement View Keyboard Shortcuts in Ableton Live](working-with-views-tracks-projects-and-content/arrangement-view-keyboard-shortcuts-in-ableton-live.md)
 - [How to Use Tracks in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-tracks-in-ableton-live.md)
+- [How to Use Detail View in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-detail-view-in-ableton-live.md)
