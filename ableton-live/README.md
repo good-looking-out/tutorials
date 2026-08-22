@@ -22,3 +22,4 @@
 
 - [How to Use Session View in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-session-view-in-ableton-live.md)
 - [How to Use Arrangement View in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-arrangement-view-in-ableton-live.md)
+- [How to Move Between Session View and Arrangement View](working-with-views-tracks-projects-and-content/how-to-move-between-session-view-and-arrangement-view.md)
