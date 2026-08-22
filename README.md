@@ -23,6 +23,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Export Audio from Ableton Live](ableton-live/getting-started-setup-and-core-navigation/how-to-export-audio-from-ableton-live.md)
 - [Working with Views, Tracks, Projects, and Content](ableton-live/README.md#working-with-views-tracks-projects-and-content)
   - [How to Use Session View in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-session-view-in-ableton-live.md)
+  - [How to Use Arrangement View in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-arrangement-view-in-ableton-live.md)
 
 ### Shred Scopes
 
