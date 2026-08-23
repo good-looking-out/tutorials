@@ -30,6 +30,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Tracks in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-tracks-in-ableton-live.md)
   - [How to Use Detail View in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-detail-view-in-ableton-live.md)
   - [How to Use Live’s Mixer](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-lives-mixer.md)
+  - [How to Use the Transport Bar and Follow Behavior](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-the-transport-bar-and-follow-behavior.md)
 
 ### Shred Scopes
 

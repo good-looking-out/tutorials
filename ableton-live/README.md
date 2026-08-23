@@ -28,3 +28,4 @@
 - [How to Use Tracks in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-tracks-in-ableton-live.md)
 - [How to Use Detail View in Ableton Live](working-with-views-tracks-projects-and-content/how-to-use-detail-view-in-ableton-live.md)
 - [How to Use Live’s Mixer](working-with-views-tracks-projects-and-content/how-to-use-lives-mixer.md)
+- [How to Use the Transport Bar and Follow Behavior](working-with-views-tracks-projects-and-content/how-to-use-the-transport-bar-and-follow-behavior.md)
