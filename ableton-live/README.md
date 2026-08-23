@@ -30,3 +30,4 @@
 - [How to Use Live’s Mixer](working-with-views-tracks-projects-and-content/how-to-use-lives-mixer.md)
 - [How to Use the Transport Bar and Follow Behavior](working-with-views-tracks-projects-and-content/how-to-use-the-transport-bar-and-follow-behavior.md)
 - [How to Edit Clips in Arrangement View](working-with-views-tracks-projects-and-content/how-to-edit-clips-in-arrangement-view.md)
+- [How to Group Tracks in Ableton Live](working-with-views-tracks-projects-and-content/how-to-group-tracks-in-ableton-live.md)
