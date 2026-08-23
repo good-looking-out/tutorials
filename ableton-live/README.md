@@ -31,3 +31,4 @@
 - [How to Use the Transport Bar and Follow Behavior](working-with-views-tracks-projects-and-content/how-to-use-the-transport-bar-and-follow-behavior.md)
 - [How to Edit Clips in Arrangement View](working-with-views-tracks-projects-and-content/how-to-edit-clips-in-arrangement-view.md)
 - [How to Group Tracks in Ableton Live](working-with-views-tracks-projects-and-content/how-to-group-tracks-in-ableton-live.md)
+- [How to Edit Multiple Clips at Once in Ableton Live](working-with-views-tracks-projects-and-content/how-to-edit-multiple-clips-at-once-in-ableton-live.md)
