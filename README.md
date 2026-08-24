@@ -41,6 +41,8 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [What Is an Ableton Live Pack?](ableton-live/working-with-views-tracks-projects-and-content/what-is-an-ableton-live-pack.md)
   - [How to Use Third-Party Plug-ins in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-third-party-plug-ins-in-ableton-live.md)
   - [How to Save Presets in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-save-presets-in-ableton-live.md)
+- [MIDI Creation, Recording, and Editing](ableton-live/README.md#midi-creation-recording-and-editing)
+  - [How to Record MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-record-midi-in-ableton-live.md)
 
 ### Shred Scopes
 
