@@ -37,6 +37,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Edit Linked Tracks in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-edit-linked-tracks-in-ableton-live.md)
   - [How to Freeze a Track in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-freeze-a-track-in-ableton-live.md)
   - [How to Use Dual Screen Mode in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-dual-screen-mode-in-ableton-live.md)
+  - [How to Install Ableton Live Packs](ableton-live/working-with-views-tracks-projects-and-content/how-to-install-ableton-live-packs.md)
 
 ### Shred Scopes
 
