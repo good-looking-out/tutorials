@@ -39,6 +39,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Dual Screen Mode in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-dual-screen-mode-in-ableton-live.md)
   - [How to Install Ableton Live Packs](ableton-live/working-with-views-tracks-projects-and-content/how-to-install-ableton-live-packs.md)
   - [What Is an Ableton Live Pack?](ableton-live/working-with-views-tracks-projects-and-content/what-is-an-ableton-live-pack.md)
+  - [How to Use Third-Party Plug-ins in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-use-third-party-plug-ins-in-ableton-live.md)
 
 ### Shred Scopes
 
