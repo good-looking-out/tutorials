@@ -43,6 +43,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Save Presets in Ableton Live](ableton-live/working-with-views-tracks-projects-and-content/how-to-save-presets-in-ableton-live.md)
 - [MIDI Creation, Recording, and Editing](ableton-live/README.md#midi-creation-recording-and-editing)
   - [How to Record MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-record-midi-in-ableton-live.md)
+  - [How to Capture MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-capture-midi-in-ableton-live.md)
 
 ### Shred Scopes
 

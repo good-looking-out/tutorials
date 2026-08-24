@@ -43,3 +43,4 @@
 ### MIDI Creation, Recording, and Editing
 
 - [How to Record MIDI in Ableton Live](midi-creation-recording-and-editing/how-to-record-midi-in-ableton-live.md)
+- [How to Capture MIDI in Ableton Live](midi-creation-recording-and-editing/how-to-capture-midi-in-ableton-live.md)
