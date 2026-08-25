@@ -44,6 +44,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
 - [MIDI Creation, Recording, and Editing](ableton-live/README.md#midi-creation-recording-and-editing)
   - [How to Record MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-record-midi-in-ableton-live.md)
   - [How to Capture MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-capture-midi-in-ableton-live.md)
+  - [How to Edit MIDI Notes in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-edit-midi-notes-in-ableton-live.md)
 
 ### Shred Scopes
 
