@@ -46,3 +46,4 @@
 - [How to Capture MIDI in Ableton Live](midi-creation-recording-and-editing/how-to-capture-midi-in-ableton-live.md)
 - [How to Edit MIDI Notes in Ableton Live](midi-creation-recording-and-editing/how-to-edit-midi-notes-in-ableton-live.md)
 - [How to Edit MIDI Clips in Ableton Live](midi-creation-recording-and-editing/how-to-edit-midi-clips-in-ableton-live.md)
+- [How to Quantize MIDI in Ableton Live](midi-creation-recording-and-editing/how-to-quantize-midi-in-ableton-live.md)

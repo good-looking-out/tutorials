@@ -46,6 +46,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Capture MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-capture-midi-in-ableton-live.md)
   - [How to Edit MIDI Notes in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-edit-midi-notes-in-ableton-live.md)
   - [How to Edit MIDI Clips in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-edit-midi-clips-in-ableton-live.md)
+  - [How to Quantize MIDI in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-quantize-midi-in-ableton-live.md)
 
 ### Shred Scopes
 
