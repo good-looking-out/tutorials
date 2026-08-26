@@ -49,3 +49,4 @@
 - [How to Quantize MIDI in Ableton Live](midi-creation-recording-and-editing/how-to-quantize-midi-in-ableton-live.md)
 - [How to Sequence MIDI in Ableton Live: Part 1](midi-creation-recording-and-editing/how-to-sequence-midi-in-ableton-live-part-1.md)
 - [How to Sequence MIDI in Ableton Live: Part 2](midi-creation-recording-and-editing/how-to-sequence-midi-in-ableton-live-part-2.md)
+- [How to Use Keys, Scales, and Tuning Systems in Ableton Live](midi-creation-recording-and-editing/how-to-use-keys-scales-and-tuning-systems-in-ableton-live.md)
