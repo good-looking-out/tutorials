@@ -52,6 +52,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Keys, Scales, and Tuning Systems in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-keys-scales-and-tuning-systems-in-ableton-live.md)
   - [How to Use MIDI Pitch and Time Tools in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-midi-pitch-and-time-tools-in-ableton-live.md)
   - [How to Map MIDI and Computer Keys in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-map-midi-and-computer-keys-in-ableton-live.md)
+  - [How to Use MIDI Generators in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-midi-generators-in-ableton-live.md)
 
 ### Shred Scopes
 
