@@ -50,6 +50,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Sequence MIDI in Ableton Live: Part 1](ableton-live/midi-creation-recording-and-editing/how-to-sequence-midi-in-ableton-live-part-1.md)
   - [How to Sequence MIDI in Ableton Live: Part 2](ableton-live/midi-creation-recording-and-editing/how-to-sequence-midi-in-ableton-live-part-2.md)
   - [How to Use Keys, Scales, and Tuning Systems in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-keys-scales-and-tuning-systems-in-ableton-live.md)
+  - [How to Use MIDI Pitch and Time Tools in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-midi-pitch-and-time-tools-in-ableton-live.md)
 
 ### Shred Scopes
 
