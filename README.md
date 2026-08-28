@@ -57,6 +57,10 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Chance Tools and Probability in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-chance-tools-and-probability-in-ableton-live.md)
   - [How to Use Comping in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-comping-in-ableton-live.md)
 
+### Audio Clips, Sampling, and Warping
+
+  - [How to Warp Audio Clips in Ableton Live](ableton-live/audio-clips-sampling-and-warping/how-to-warp-audio-clips-in-ableton-live.md)
+
 ### Shred Scopes
 
 - [Shred Scopes tutorial index](shred-scopes/README.md)

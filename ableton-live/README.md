@@ -56,3 +56,7 @@
 - [How to Use MIDI Transformations in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-transformations-in-ableton-live.md)
 - [How to Use Chance Tools and Probability in Ableton Live](midi-creation-recording-and-editing/how-to-use-chance-tools-and-probability-in-ableton-live.md)
 - [How to Use Comping in Ableton Live](midi-creation-recording-and-editing/how-to-use-comping-in-ableton-live.md)
+
+## Audio Clips, Sampling, and Warping
+
+- [How to Warp Audio Clips in Ableton Live](audio-clips-sampling-and-warping/how-to-warp-audio-clips-in-ableton-live.md)
