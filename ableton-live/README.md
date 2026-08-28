@@ -53,3 +53,4 @@
 - [How to Use MIDI Pitch and Time Tools in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-pitch-and-time-tools-in-ableton-live.md)
 - [How to Map MIDI and Computer Keys in Ableton Live](midi-creation-recording-and-editing/how-to-map-midi-and-computer-keys-in-ableton-live.md)
 - [How to Use MIDI Generators in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-generators-in-ableton-live.md)
+- [How to Use MIDI Transformations in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-transformations-in-ableton-live.md)
