@@ -55,3 +55,4 @@
 - [How to Use MIDI Generators in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-generators-in-ableton-live.md)
 - [How to Use MIDI Transformations in Ableton Live](midi-creation-recording-and-editing/how-to-use-midi-transformations-in-ableton-live.md)
 - [How to Use Chance Tools and Probability in Ableton Live](midi-creation-recording-and-editing/how-to-use-chance-tools-and-probability-in-ableton-live.md)
+- [How to Use Comping in Ableton Live](midi-creation-recording-and-editing/how-to-use-comping-in-ableton-live.md)
