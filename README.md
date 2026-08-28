@@ -54,6 +54,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Map MIDI and Computer Keys in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-map-midi-and-computer-keys-in-ableton-live.md)
   - [How to Use MIDI Generators in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-midi-generators-in-ableton-live.md)
   - [How to Use MIDI Transformations in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-midi-transformations-in-ableton-live.md)
+  - [How to Use Chance Tools and Probability in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-chance-tools-and-probability-in-ableton-live.md)
 
 ### Shred Scopes
 
