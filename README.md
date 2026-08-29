@@ -57,16 +57,14 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Chance Tools and Probability in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-chance-tools-and-probability-in-ableton-live.md)
   - [How to Use Comping in Ableton Live](ableton-live/midi-creation-recording-and-editing/how-to-use-comping-in-ableton-live.md)
 
-### Audio Clips, Sampling, and Warping
-
+- [Audio Clips, Sampling, and Warping](ableton-live/README.md#audio-clips-sampling-and-warping)
   - [How to Warp Audio Clips in Ableton Live](ableton-live/audio-clips-sampling-and-warping/how-to-warp-audio-clips-in-ableton-live.md)
   - [How to Warp Audio in Simpler](ableton-live/audio-clips-sampling-and-warping/how-to-warp-audio-in-simpler.md)
-
-### Mixing, Automation, and Arrangement Control
-
+- [Mixing, Automation, and Arrangement Control](ableton-live/README.md#mixing-automation-and-arrangement-control)
   - [How to Route Audio and MIDI in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-route-audio-and-midi-in-ableton-live.md)
   - [How to Pan Tracks in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-pan-tracks-in-ableton-live.md)
   - [Automation vs. Modulation in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/automation-vs-modulation-in-ableton-live.md)
+  - [How to Use Modulation in Session View](ableton-live/mixing-automation-and-arrangement-control/how-to-use-modulation-in-session-view.md)
 
 ### Shred Scopes
 
