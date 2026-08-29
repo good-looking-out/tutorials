@@ -61,3 +61,7 @@
 
 - [How to Warp Audio Clips in Ableton Live](audio-clips-sampling-and-warping/how-to-warp-audio-clips-in-ableton-live.md)
 - [How to Warp Audio in Simpler](audio-clips-sampling-and-warping/how-to-warp-audio-in-simpler.md)
+
+## Mixing, Automation, and Arrangement Control
+
+- [How to Route Audio and MIDI in Ableton Live](mixing-automation-and-arrangement-control/how-to-route-audio-and-midi-in-ableton-live.md)

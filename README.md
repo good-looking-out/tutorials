@@ -62,6 +62,10 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Warp Audio Clips in Ableton Live](ableton-live/audio-clips-sampling-and-warping/how-to-warp-audio-clips-in-ableton-live.md)
   - [How to Warp Audio in Simpler](ableton-live/audio-clips-sampling-and-warping/how-to-warp-audio-in-simpler.md)
 
+### Mixing, Automation, and Arrangement Control
+
+  - [How to Route Audio and MIDI in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-route-audio-and-midi-in-ableton-live.md)
+
 ### Shred Scopes
 
 - [Shred Scopes tutorial index](shred-scopes/README.md)
