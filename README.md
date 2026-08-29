@@ -65,6 +65,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
 ### Mixing, Automation, and Arrangement Control
 
   - [How to Route Audio and MIDI in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-route-audio-and-midi-in-ableton-live.md)
+  - [How to Pan Tracks in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-pan-tracks-in-ableton-live.md)
 
 ### Shred Scopes
 
