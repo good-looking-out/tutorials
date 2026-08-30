@@ -69,6 +69,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Automate in Arrangement View](ableton-live/mixing-automation-and-arrangement-control/how-to-automate-in-arrangement-view.md)
   - [How to Automate Tempo Changes in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-automate-tempo-changes-in-ableton-live.md)
   - [How to Sidechain Audio in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-sidechain-audio-in-ableton-live.md)
+  - [How to Use Channel EQ in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-use-channel-eq-in-ableton-live.md)
 
 ### Shred Scopes
 
