@@ -71,3 +71,4 @@
 - [How to Automate a Clip in Ableton Live](mixing-automation-and-arrangement-control/how-to-automate-a-clip-in-ableton-live.md)
 - [How to Automate in Arrangement View](mixing-automation-and-arrangement-control/how-to-automate-in-arrangement-view.md)
 - [How to Automate Tempo Changes in Ableton Live](mixing-automation-and-arrangement-control/how-to-automate-tempo-changes-in-ableton-live.md)
+- [How to Sidechain Audio in Ableton Live](mixing-automation-and-arrangement-control/how-to-sidechain-audio-in-ableton-live.md)
