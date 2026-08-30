@@ -72,6 +72,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Channel EQ in Ableton Live](ableton-live/mixing-automation-and-arrangement-control/how-to-use-channel-eq-in-ableton-live.md)
 - [Racks, Grooves, and Performance Features](ableton-live/README.md#racks-grooves-and-performance-features)
   - [Ableton Live Racks Overview](ableton-live/racks-grooves-and-performance-features/ableton-live-racks-overview.md)
+  - [How to Use Racks in Depth](ableton-live/racks-grooves-and-performance-features/how-to-use-racks-in-depth.md)
 
 ### Shred Scopes
 

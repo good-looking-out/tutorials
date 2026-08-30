@@ -77,3 +77,4 @@
 ## Racks, Grooves, and Performance Features
 
 - [Ableton Live Racks Overview](racks-grooves-and-performance-features/ableton-live-racks-overview.md)
+- [How to Use Racks in Depth](racks-grooves-and-performance-features/how-to-use-racks-in-depth.md)
