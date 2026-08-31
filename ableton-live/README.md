@@ -78,3 +78,4 @@
 
 - [Ableton Live Racks Overview](racks-grooves-and-performance-features/ableton-live-racks-overview.md)
 - [How to Use Racks in Depth](racks-grooves-and-performance-features/how-to-use-racks-in-depth.md)
+- [How to Use the Groove Pool in Ableton Live](racks-grooves-and-performance-features/how-to-use-the-groove-pool-in-ableton-live.md)
