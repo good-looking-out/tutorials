@@ -83,3 +83,7 @@
 - [How to Use Follow Actions in Ableton Live](racks-grooves-and-performance-features/how-to-use-follow-actions-in-ableton-live.md)
 - [How to Use Tempo Follower in Ableton Live](racks-grooves-and-performance-features/how-to-use-tempo-follower-in-ableton-live.md)
 - [How to Use Ableton Link](racks-grooves-and-performance-features/how-to-use-ableton-link.md)
+
+## Live 12 Features and Built-In Instruments
+
+- [What’s New in Ableton Live 12](live-12-features-and-built-in-instruments/whats-new-in-ableton-live-12.md)

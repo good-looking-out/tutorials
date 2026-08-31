@@ -78,6 +78,8 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Follow Actions in Ableton Live](ableton-live/racks-grooves-and-performance-features/how-to-use-follow-actions-in-ableton-live.md)
   - [How to Use Tempo Follower in Ableton Live](ableton-live/racks-grooves-and-performance-features/how-to-use-tempo-follower-in-ableton-live.md)
   - [How to Use Ableton Link](ableton-live/racks-grooves-and-performance-features/how-to-use-ableton-link.md)
+- [Live 12 Features and Built-In Instruments](ableton-live/README.md#live-12-features-and-built-in-instruments)
+  - [What’s New in Ableton Live 12](ableton-live/live-12-features-and-built-in-instruments/whats-new-in-ableton-live-12.md)
 
 ### Shred Scopes
 
