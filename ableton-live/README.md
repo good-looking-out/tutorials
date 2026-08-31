@@ -81,3 +81,4 @@
 - [How to Use the Groove Pool in Ableton Live](racks-grooves-and-performance-features/how-to-use-the-groove-pool-in-ableton-live.md)
 - [How to Use the Groove Pool in Depth](racks-grooves-and-performance-features/how-to-use-the-groove-pool-in-depth.md)
 - [How to Use Follow Actions in Ableton Live](racks-grooves-and-performance-features/how-to-use-follow-actions-in-ableton-live.md)
+- [How to Use Tempo Follower in Ableton Live](racks-grooves-and-performance-features/how-to-use-tempo-follower-in-ableton-live.md)
