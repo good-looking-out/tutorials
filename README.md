@@ -74,6 +74,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [Ableton Live Racks Overview](ableton-live/racks-grooves-and-performance-features/ableton-live-racks-overview.md)
   - [How to Use Racks in Depth](ableton-live/racks-grooves-and-performance-features/how-to-use-racks-in-depth.md)
   - [How to Use the Groove Pool in Ableton Live](ableton-live/racks-grooves-and-performance-features/how-to-use-the-groove-pool-in-ableton-live.md)
+  - [How to Use the Groove Pool in Depth](ableton-live/racks-grooves-and-performance-features/how-to-use-the-groove-pool-in-depth.md)
 
 ### Shred Scopes
 
