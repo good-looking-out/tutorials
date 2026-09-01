@@ -83,6 +83,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [What’s New in Ableton Live 12.2](ableton-live/live-12-features-and-built-in-instruments/whats-new-in-ableton-live-12-2.md)
   - [How to Use Sound Similarity Search in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-sound-similarity-search-in-ableton-live.md)
   - [How to Use Roar in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-roar-in-ableton-live.md)
+  - [How to Use Meld in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-meld-in-ableton-live.md)
 
 ### Shred Scopes
 
