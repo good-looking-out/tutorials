@@ -92,3 +92,7 @@
 - [How to Use Roar in Ableton Live](live-12-features-and-built-in-instruments/how-to-use-roar-in-ableton-live.md)
 - [How to Use Meld in Ableton Live](live-12-features-and-built-in-instruments/how-to-use-meld-in-ableton-live.md)
 - [How to Use Granulator III in Ableton Live](live-12-features-and-built-in-instruments/how-to-use-granulator-iii-in-ableton-live.md)
+
+## Audio Effects and Creative Processing
+
+- [How to Use Spectral Resonator in Ableton Live](audio-effects-and-creative-processing/how-to-use-spectral-resonator-in-ableton-live.md)

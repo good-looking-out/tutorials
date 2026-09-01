@@ -85,6 +85,8 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Roar in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-roar-in-ableton-live.md)
   - [How to Use Meld in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-meld-in-ableton-live.md)
   - [How to Use Granulator III in Ableton Live](ableton-live/live-12-features-and-built-in-instruments/how-to-use-granulator-iii-in-ableton-live.md)
+- [Audio Effects and Creative Processing](ableton-live/README.md#audio-effects-and-creative-processing)
+  - [How to Use Spectral Resonator in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-spectral-resonator-in-ableton-live.md)
 
 ### Shred Scopes
 
