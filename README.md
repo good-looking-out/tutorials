@@ -88,6 +88,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
 - [Audio Effects and Creative Processing](ableton-live/README.md#audio-effects-and-creative-processing)
   - [How to Use Spectral Resonator in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-spectral-resonator-in-ableton-live.md)
   - [How to Use Spectral Time in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-spectral-time-in-ableton-live.md)
+  - [How to Use Emit in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-emit-in-ableton-live.md)
 
 ### Shred Scopes
 
