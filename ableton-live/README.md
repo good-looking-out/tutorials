@@ -96,3 +96,4 @@
 ## Audio Effects and Creative Processing
 
 - [How to Use Spectral Resonator in Ableton Live](audio-effects-and-creative-processing/how-to-use-spectral-resonator-in-ableton-live.md)
+- [How to Use Spectral Time in Ableton Live](audio-effects-and-creative-processing/how-to-use-spectral-time-in-ableton-live.md)
