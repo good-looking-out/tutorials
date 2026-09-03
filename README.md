@@ -92,6 +92,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Drum Buss in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-drum-buss-in-ableton-live.md)
   - [How to Use Delay in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-delay-in-ableton-live.md)
   - [How to Use Hybrid Reverb in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-hybrid-reverb-in-ableton-live.md)
+  - [How to Use Echo in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-echo-in-ableton-live.md)
 
 ### Shred Scopes
 
