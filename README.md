@@ -90,6 +90,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Spectral Time in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-spectral-time-in-ableton-live.md)
   - [How to Use Emit in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-emit-in-ableton-live.md)
   - [How to Use Drum Buss in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-drum-buss-in-ableton-live.md)
+  - [How to Use Delay in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-delay-in-ableton-live.md)
 
 ### Shred Scopes
 
