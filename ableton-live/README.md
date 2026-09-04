@@ -105,3 +105,4 @@
 - [How to Use Echo’s Character Section](audio-effects-and-creative-processing/how-to-use-echos-character-section.md)
 - [How to Use Echo’s Modulation Section](audio-effects-and-creative-processing/how-to-use-echos-modulation-section.md)
 - [How to Use Shifter in Ableton Live](audio-effects-and-creative-processing/how-to-use-shifter-in-ableton-live.md)
+- [How to Use Pedal in Ableton Live](audio-effects-and-creative-processing/how-to-use-pedal-in-ableton-live.md)
