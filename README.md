@@ -95,6 +95,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Echo in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-echo-in-ableton-live.md)
   - [How to Use Echo’s Character Section](ableton-live/audio-effects-and-creative-processing/how-to-use-echos-character-section.md)
   - [How to Use Echo’s Modulation Section](ableton-live/audio-effects-and-creative-processing/how-to-use-echos-modulation-section.md)
+  - [How to Use Shifter in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-shifter-in-ableton-live.md)
 
 ### Shred Scopes
 
