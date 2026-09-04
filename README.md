@@ -94,6 +94,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Hybrid Reverb in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-hybrid-reverb-in-ableton-live.md)
   - [How to Use Echo in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-echo-in-ableton-live.md)
   - [How to Use Echo’s Character Section](ableton-live/audio-effects-and-creative-processing/how-to-use-echos-character-section.md)
+  - [How to Use Echo’s Modulation Section](ableton-live/audio-effects-and-creative-processing/how-to-use-echos-modulation-section.md)
 
 ### Shred Scopes
 
