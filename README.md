@@ -97,6 +97,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Echo’s Modulation Section](ableton-live/audio-effects-and-creative-processing/how-to-use-echos-modulation-section.md)
   - [How to Use Shifter in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-shifter-in-ableton-live.md)
   - [How to Use Pedal in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-pedal-in-ableton-live.md)
+  - [How to Use Phaser-Flanger in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-phaser-flanger-in-ableton-live.md)
 
 ### Shred Scopes
 
