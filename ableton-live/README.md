@@ -107,3 +107,4 @@
 - [How to Use Shifter in Ableton Live](audio-effects-and-creative-processing/how-to-use-shifter-in-ableton-live.md)
 - [How to Use Pedal in Ableton Live](audio-effects-and-creative-processing/how-to-use-pedal-in-ableton-live.md)
 - [How to Use Phaser-Flanger in Ableton Live](audio-effects-and-creative-processing/how-to-use-phaser-flanger-in-ableton-live.md)
+- [How to Use Redux in Ableton Live](audio-effects-and-creative-processing/how-to-use-redux-in-ableton-live.md)
