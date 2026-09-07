@@ -100,6 +100,8 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Phaser-Flanger in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-phaser-flanger-in-ableton-live.md)
   - [How to Use Redux in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-redux-in-ableton-live.md)
   - [How to Use Chorus-Ensemble in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-chorus-ensemble-in-ableton-live.md)
+- [Expressive Control and Wavetable Synthesis](ableton-live/README.md#expressive-control-and-wavetable-synthesis)
+  - [How to Use MPE in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-in-ableton-live.md)
 
 ### Shred Scopes
 
