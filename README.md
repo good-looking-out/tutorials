@@ -102,6 +102,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use Chorus-Ensemble in Ableton Live](ableton-live/audio-effects-and-creative-processing/how-to-use-chorus-ensemble-in-ableton-live.md)
 - [Expressive Control and Wavetable Synthesis](ableton-live/README.md#expressive-control-and-wavetable-synthesis)
   - [How to Use MPE in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-in-ableton-live.md)
+  - [How to Use MPE Control in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-control-in-ableton-live.md)
 
 ### Shred Scopes
 
