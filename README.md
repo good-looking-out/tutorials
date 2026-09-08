@@ -103,6 +103,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
 - [Expressive Control and Wavetable Synthesis](ableton-live/README.md#expressive-control-and-wavetable-synthesis)
   - [How to Use MPE in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-in-ableton-live.md)
   - [How to Use MPE Control in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-control-in-ableton-live.md)
+  - [How to Use MPE with Wavetable](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-with-wavetable.md)
 
 ### Shred Scopes
 

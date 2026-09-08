@@ -114,3 +114,4 @@
 
 - [How to Use MPE in Ableton Live](expressive-control-and-wavetable-synthesis/how-to-use-mpe-in-ableton-live.md)
 - [How to Use MPE Control in Ableton Live](expressive-control-and-wavetable-synthesis/how-to-use-mpe-control-in-ableton-live.md)
+- [How to Use MPE with Wavetable](expressive-control-and-wavetable-synthesis/how-to-use-mpe-with-wavetable.md)
