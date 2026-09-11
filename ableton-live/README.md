@@ -116,3 +116,4 @@
 - [How to Use MPE Control in Ableton Live](expressive-control-and-wavetable-synthesis/how-to-use-mpe-control-in-ableton-live.md)
 - [How to Use MPE with Wavetable](expressive-control-and-wavetable-synthesis/how-to-use-mpe-with-wavetable.md)
 - [How to Use Wavetable Oscillator Effect Modes](expressive-control-and-wavetable-synthesis/how-to-use-wavetable-oscillator-effect-modes.md)
+- [Wavetable Overview in Ableton Live](expressive-control-and-wavetable-synthesis/wavetable-overview-in-ableton-live.md)
