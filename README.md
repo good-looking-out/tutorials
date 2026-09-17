@@ -106,6 +106,7 @@ Browse the published documentation site at [good-looking-out.github.io/tutorials
   - [How to Use MPE with Wavetable](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-mpe-with-wavetable.md)
   - [How to Use Wavetable Oscillator Effect Modes](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-wavetable-oscillator-effect-modes.md)
   - [Wavetable Overview in Ableton Live](ableton-live/expressive-control-and-wavetable-synthesis/wavetable-overview-in-ableton-live.md)
+  - [How to Use Wavetable Unison Modes](ableton-live/expressive-control-and-wavetable-synthesis/how-to-use-wavetable-unison-modes.md)
 
 ### Shred Scopes
 
