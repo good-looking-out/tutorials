@@ -119,3 +119,4 @@
 - [Wavetable Overview in Ableton Live](expressive-control-and-wavetable-synthesis/wavetable-overview-in-ableton-live.md)
 - [How to Use Wavetable Unison Modes](expressive-control-and-wavetable-synthesis/how-to-use-wavetable-unison-modes.md)
 - [How to Use Wavetable Modulation](expressive-control-and-wavetable-synthesis/how-to-use-wavetable-modulation.md)
+- [How to Change Wavetables in Wavetable](expressive-control-and-wavetable-synthesis/how-to-change-wavetables-in-wavetable.md)
